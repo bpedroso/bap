@@ -11,6 +11,8 @@
 
 Princípios de arquitetura, domínio e construção de software para plataformas escaláveis, produtos interativos e sistemas impulsionados por Inteligência Artificial.
 
+Inspirado na padronização e adoção dos [12 Factor Apps](https://12factor.net/) e no modelo da [CNCF](https://www.cncf.io/) de estruturas confiáveis — incluindo o [CNCF Landscape](https://landscape.cncf.io/) como referência comum em arquitetura nas empresas. **BAP não tem relação institucional com essas entidades**; elas servem apenas como inspiração.
+
 ## Manifesto
 
 | Idioma | Status | Link |
@@ -21,7 +23,7 @@ Princípios de arquitetura, domínio e construção de software para plataformas
 
 ## Pilares
 
-Cada pilar do manifesto terá uma página própria com exemplos:
+Cada pilar do manifesto será mostrada com exemplos:
 
 | Pilar | Descrição | PT |
 |-------|-----------|----|

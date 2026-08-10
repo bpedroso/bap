@@ -13,15 +13,21 @@
   </p>
 </div>
 
-*Este manifesto foi inspirado em diversas publicações de arquitetura — incluindo os [12 Factor Apps](https://12factor.net/) e os frameworks Well-Architected das principais cloud providers. Contribuições e feedback são bem-vindos!*
+*Este manifesto inspira-se no espírito de padronização e adoção dos [12 Factor Apps](https://12factor.net/) e, de forma ainda mais forte, no modelo da [CNCF](https://www.cncf.io/) de manter estruturas confiáveis e amplamente aceitas pela comunidade tech — inclusive o [CNCF Landscape](https://landscape.cncf.io/), referência comum para definições técnicas de arquitetura nas empresas. Também dialoga com publicações Well-Architected das cloud providers.*
+
+> [!NOTE]
+> **BAP não tem relação institucional** com os 12 Factor Apps, a CNCF, o Landscape ou os frameworks Well-Architected citados. Essas fontes servem **apenas como inspiração** de forma, rigor e cultura de adoção — não como afiliação, endosso ou vínculo oficial.
 
 > [!TIP]
-> Documentações de arquitetura das principais cloud providers:
+> Referências de inspiração (independentes do BAP):
 >
+> - [12 Factor Apps](https://12factor.net/) — padronização e adoção
+> - [CNCF](https://www.cncf.io/) — estruturas confiáveis e aceitas pela comunidade
+> - [CNCF Landscape](https://landscape.cncf.io/) — mapa do ecossistema cloud-native usado em definições de arquitetura
 > - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 > - [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
 > - [Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/)
-> - [IBM Well-Architected Framework](https://www.ibm.com/think/architectures/well-architected)
+> - [IBM Well-Architected Framework](https://www.ibm.com/think/architectures/well-architected/)
 
 ### **A engenharia do software moderno não aceita atalhos. Criamos a fundação do que vem a seguir.**
 
