@@ -9,6 +9,10 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="assets/bap_structure.jpeg" alt="B.A.P. structure — Base, Architecture and Platforms" width="720"/>
+  <p><em>Base sustains Architecture; Architecture enables Platforms.</em></p>
+</div>
 
 ## Manifesto
 
@@ -77,7 +81,8 @@ Cada pilar do manifesto será mostrado com exemplos:
 ├── README.md                 # Hub do projeto
 ├── LICENSE
 ├── assets/
-│   └── bap_logo.png
+│   ├── bap_logo.png
+│   └── bap_structure.jpeg
 └── manifesto/
     ├── pt/                   # Português (fonte atual)
     │   ├── README.md         # Manifesto
