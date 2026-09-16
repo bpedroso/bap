@@ -17,7 +17,17 @@ Arquitetura não é um ofício reservado a quem tem o cargo no crachá. É alfab
 
 A profundidade muda com a função. O que não muda é o efeito: mesmo um recorte raso já melhora a decisão; um recorte profundo torna a orientação possível.
 
-### Exemplos por profundidade
+## Insights
+
+Dicas e reflexões sobre este pilar — situações do dia a dia que ajudam a ancorar o princípio.
+
+**Domínio na base** — Toda equipe deve conseguir dizer o que o sistema faz, seu contexto e suas fronteiras. O conhecimento do domínio deve estar na BASE; se a equipe não sabe, o sistema se torna menos confiável em situações de falha.
+
+**Observabilidade é alfabetização** — Logs, métricas e traces não são “trabalho de SRE depois”. São o mínimo para qualquer papel enxergar o sistema. Sem isso, arquitetura vira opinião.
+
+**Security by design** — Segurança não entra no fim do projeto: nasce com o domínio. Identidade, dados sensíveis e quem pode ver ou alterar o quê são decisões de fundação. Quando a proteção é desenhada junto com o sistema, evita-se o ciclo eterno de “patch de segurança”.
+
+### Por profundidade de função
 
 **Desenvolvedor júnior** — querer saber como uma requisição chega (cliente → rede → API → serviço → dados) já localiza o próprio trabalho no sistema, seja back ou front. Esse mapa mínimo reduz o “código no vácuo”: a pessoa entende de onde vem o dado, para onde vai o erro e por que um contrato existe.
 

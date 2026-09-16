@@ -9,10 +9,6 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="assets/bap_structure.jpeg" alt="B.A.P. structure — Base, Architecture and Platforms" width="720"/>
-  <p><em>Base sustains Architecture; Architecture enables Platforms.</em></p>
-</div>
 
 ## Manifesto
 
@@ -66,7 +62,12 @@ Principios de arquitectura, dominio y construcción de software para plataformas
 
 ## Pilares
 
-Cada pilar do manifesto será mostrado com exemplos:
+<div align="center">
+  <img src="assets/bap_structure.jpeg" alt="B.A.P. structure — Base, Architecture and Platforms" width="720"/>
+  <p><em>Base sustains Architecture; Architecture enables Platforms.</em></p>
+</div>
+
+Cada pilar do manifesto será mostrado com dicas e insights:
 
 | Pilar | Descrição | PT | EN | ES |
 |-------|-----------|----|----|----|

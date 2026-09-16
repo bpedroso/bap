@@ -46,7 +46,7 @@ Toda gran visión exige un suelo firme. Los sistemas de alta escala y disponibil
 * **Aislamiento y previsibilidad:** Los componentes deben ser autónomos y tolerantes a fallos. La infraestructura de base debe ser estrictamente determinista, observable y resiliente, garantizando que fallos puntuales jamás comprometan el ecosistema.
 * **Arquitectura en todos los niveles:** Todo profesional de TI necesita conocer arquitectura, en profundidades distintas según su función. Del conocimiento más superficial al más profundo, cada capa amplía la calidad de las decisiones.
 
-→ [Página del pilar BASE — ejemplos](base.md)
+→ [Página del pilar BASE — insights](base.md)
 
 ---
 
@@ -58,7 +58,7 @@ Diseñar sistemas es prever el comportamiento de la tecnología bajo estrés y p
 * **Eficiencia y confianza antes de la inversión masiva:** Una empresa no necesita gastar millones para probar una nueva funcionalidad cuando posee un sistema confiable, modular y con contratos bien definidos.
 * **Inteligencia y flexibilidad sin acoplamiento:** La Inteligencia Artificial y el modelado de datos avanzado potencian la toma de decisión en tiempo real, sostenidas por patrones que permiten la evolución continua de la plataforma sin reconstruirla desde cero.
 
-→ [Página del pilar ARCHITECTURE — ejemplos](architecture.md)
+→ [Página del pilar ARCHITECTURE — insights](architecture.md)
 
 ---
 
@@ -70,7 +70,7 @@ La arquitectura solo cumple su papel cuando se materializa en productos funciona
 * **De la infraestructura a la experiencia fluida:** Sea una plataforma transaccional de altísima frecuencia, un SaaS corporativo o una experiencia interactiva, la complejidad técnica debe abstraerse en una interfaz rápida, segura e intuitiva.
 * **Rendimiento y calidad ética como estándar:** Latencia reducida, transparencia, seguridad de datos y eficiencia computacional no son diferenciales; son requisitos básicos de ingeniería y respeto al usuario final.
 
-→ [Página del pilar PLATFORMS — ejemplos](platforms.md)
+→ [Página del pilar PLATFORMS — insights](platforms.md)
 
 ---
 

@@ -17,7 +17,17 @@ Architecture is not a craft reserved for whoever has the title on a badge. It is
 
 Depth changes with the role. What does not change is the effect: even a shallow cut already improves the decision; a deep cut makes guidance possible.
 
-### Examples by depth
+## Insights
+
+Tips and reflections on this pillar — day-to-day situations that help anchor the principle.
+
+**Domain at the base** — Every team should be able to say what the system does, its context, and its boundaries. Domain knowledge belongs in the BASE; if the team does not know it, the system becomes less reliable in failure situations.
+
+**Observability is literacy** — Logs, metrics, and traces are not “SRE work for later.” They are the minimum for any role to see the system. Without them, architecture becomes opinion.
+
+**Security by design** — Security does not arrive at the end of the project: it is born with the domain. Identity, sensitive data, and who can see or change what are foundation decisions. When protection is designed with the system, you avoid the endless cycle of “security patches.”
+
+### By role depth
 
 **Junior developer** — wanting to know how a request arrives (client → network → API → service → data) already locates their own work in the system, whether back or front. That minimum map reduces “code in a vacuum”: the person understands where the data comes from, where the error goes, and why a contract exists.
 

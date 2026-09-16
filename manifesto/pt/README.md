@@ -46,7 +46,7 @@ Toda grande visão exige um solo firme. Sistemas de alta escala e disponibilidad
 * **Isolamento e previsibilidade:** Componentes devem ser autônomos e tolerantes a falhas. A infraestrutura de base deve ser estritamente determinística, observável e resiliente, garantindo que falhas pontuais jamais comprometam o ecossistema.
 * **Arquitetura em todos os níveis:** Todo profissional de TI precisa conhecer arquitetura, em profundidades diferentes conforme a função. Do conhecimento mais raso ao mais profundo, cada camada amplia a qualidade das decisões.
 
-→ [Página do pilar BASE — exemplos](base.md)
+→ [Página do pilar BASE — insights](base.md)
 
 ---
 
@@ -58,7 +58,7 @@ Desenhar sistemas é prever o comportamento da tecnologia sob estresse e permiti
 * **Eficiência e confiança antes do investimento massivo:** Uma empresa não precisa gastar milhões para testar uma nova funcionalidade quando possui um sistema confiável, modular e com contratos bem definidos.
 * **Inteligência e flexibilidade sem acoplamento:** A Inteligência Artificial e a modelagem de dados avançada potencializam a tomada de decisão em tempo real, sustentadas por padrões que permitem a evolução contínua da plataforma sem a necessidade de reconstruí-la do zero.
 
-→ [Página do pilar ARCHITECTURE — exemplos](architecture.md)
+→ [Página do pilar ARCHITECTURE — insights](architecture.md)
 
 ---
 
@@ -70,7 +70,7 @@ A arquitetura só cumpre seu papel quando se materializa em produtos funcionais,
 * **Da infraestrutura à experiência fluida:** Seja uma plataforma transacional de altíssima frequência, um SaaS corporativo ou uma experiência interativa, a complexidade técnica deve ser abstraída em uma interface rápida, segura e intuitiva.
 * **Performance e qualidade ética como padrão:** Latência reduzida, transparência, segurança de dados e eficiência computacional não são diferenciais; são requisitos básicos de engenharia e respeito ao usuário final.
 
-→ [Página do pilar PLATFORMS — exemplos](platforms.md)
+→ [Página do pilar PLATFORMS — insights](platforms.md)
 
 ---
 

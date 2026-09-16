@@ -46,7 +46,7 @@ Every great vision needs firm ground. High-scale, high-availability systems do n
 * **Isolation and predictability:** Components must be autonomous and fault-tolerant. The base infrastructure must be strictly deterministic, observable, and resilient, ensuring that localized failures never compromise the ecosystem.
 * **Architecture at every level:** Every IT professional needs to understand architecture, at different depths depending on their role. From the shallowest knowledge to the deepest, each layer improves the quality of decisions.
 
-→ [BASE pillar page — examples](base.md)
+→ [BASE pillar page — insights](base.md)
 
 ---
 
@@ -58,7 +58,7 @@ Designing systems is anticipating how technology behaves under stress and enabli
 * **Efficiency and trust before massive investment:** A company does not need to spend millions to test a new feature when it has a reliable, modular system with well-defined contracts.
 * **Intelligence and flexibility without coupling:** Artificial Intelligence and advanced data modeling strengthen real-time decision-making, supported by patterns that allow the platform to evolve continuously without rebuilding it from scratch.
 
-→ [ARCHITECTURE pillar page — examples](architecture.md)
+→ [ARCHITECTURE pillar page — insights](architecture.md)
 
 ---
 
@@ -70,7 +70,7 @@ Architecture only fulfills its role when it materializes as functional, secure p
 * **From infrastructure to a fluid experience:** Whether a high-frequency transactional platform, corporate SaaS, or an interactive experience, technical complexity must be abstracted into a fast, secure, and intuitive interface.
 * **Performance and ethical quality as the standard:** Low latency, transparency, data security, and computational efficiency are not differentiators; they are basic requirements of engineering and respect for the end user.
 
-→ [PLATFORMS pillar page — examples](platforms.md)
+→ [PLATFORMS pillar page — insights](platforms.md)
 
 ---
 
