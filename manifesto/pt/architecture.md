@@ -14,8 +14,20 @@ Desenhar sistemas é prever o comportamento da tecnologia sob estresse e permiti
 
 Dicas e reflexões sobre este pilar — situações do dia a dia que ajudam a ancorar o princípio.
 
-**Evoluir sem reconstruir** — Arquitetura boa permite trocar uma peça sem derrubar o prédio. Se cada release exige “big bang”, o desenho ainda acopla demais.
+---
 
-**Custo mensurável pela clareza** — Custo é uma das coisas mais importantes em arquitetura, mas não precisa ser preciso desde o primeiro dia. Se o desenho é bem definido e os componentes estão em camadas confiáveis, mesmo sem detalhe fino de custos fica fácil medir e tomar ação.
+### Evoluir sem reconstruir
 
-**IA com duas mãos** — Inteligência Artificial na arquitetura deve olhar para inteligência de dados em uma mão e segurança na outra. Ao mesmo tempo que precisa conhecer o contexto, precisa também proteger — conhecer tudo sem proteger é risco; proteger sem conhecer é cegueira.
+Arquitetura boa permite trocar uma peça sem derrubar o prédio. Se cada release exige “big bang”, o desenho ainda acopla demais.
+
+---
+
+### Custo mensurável pela clareza
+
+Custo é uma das coisas mais importantes em arquitetura, mas não precisa ser preciso desde o primeiro dia. Se o desenho é bem definido e os componentes estão em camadas confiáveis, mesmo sem detalhe fino de custos fica fácil medir e tomar ação.
+
+---
+
+### IA com duas mãos
+
+Inteligência Artificial na arquitetura deve olhar para inteligência de dados em uma mão e segurança na outra. Ao mesmo tempo que precisa conhecer o contexto, precisa também proteger — conhecer tudo sem proteger é risco; proteger sem conhecer é cegueira.

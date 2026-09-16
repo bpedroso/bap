@@ -14,8 +14,20 @@ Architecture only fulfills its role when it materializes as functional, secure p
 
 Tips and reflections on this pillar — day-to-day situations that help anchor the principle.
 
-**Complexity disappears in the interface** — The user should not carry the topology. Latency, state, and failure need honest UX; hiding failure without feedback is product irresponsibility.
+---
 
-**Engagement with a brake** — In games and immersive products, retention metrics without ethical limits become predatory design. Responsibility is product architecture, not a disclaimer.
+### Complexity disappears in the interface
 
-**Graceful degradation** — When the base wobbles, the platform should still offer a useful path (reduced mode, queue, clear message). A product that only works on the happy path is not a platform — it is a demo.
+The user should not carry the topology. Latency, state, and failure need honest UX; hiding failure without feedback is product irresponsibility.
+
+---
+
+### Engagement with a brake
+
+In games and immersive products, retention metrics without ethical limits become predatory design. Responsibility is product architecture, not a disclaimer.
+
+---
+
+### Graceful degradation
+
+When the base wobbles, the platform should still offer a useful path (reduced mode, queue, clear message). A product that only works on the happy path is not a platform — it is a demo.

@@ -11,26 +11,38 @@ Toda gran visión exige un suelo firme. Los sistemas de alta escala y disponibil
 * **Aislamiento y previsibilidad:** Los componentes deben ser autónomos y tolerantes a fallos. La infraestructura de base debe ser estrictamente determinista, observable y resiliente, garantizando que fallos puntuales jamás comprometan el ecosistema.
 * **Arquitectura en todos los niveles:** Todo profesional de TI necesita conocer arquitectura, en profundidades distintas según su función. Del conocimiento más superficial al más profundo, cada capa amplía la calidad de las decisiones.
 
-## Arquitectura en todos los niveles
+## Insights
+
+Tips y reflexiones sobre este pilar — situaciones del día a día que ayudan a anclar el principio.
+
+---
+
+### Dominio en la base
+
+Todo equipo debe poder decir qué hace el sistema, su contexto y sus fronteras. El conocimiento del dominio debe estar en la BASE; si el equipo no lo sabe, el sistema se vuelve menos confiable en situaciones de fallo.
+
+---
+
+### La observabilidad es alfabetización
+
+Logs, métricas y traces no son “trabajo de SRE después”. Son el mínimo para que cualquier rol vea el sistema. Sin eso, la arquitectura se vuelve opinión.
+
+---
+
+### Security by design
+
+La seguridad no llega al final del proyecto: nace con el dominio. Identidad, datos sensibles y quién puede ver o cambiar qué son decisiones de fundación. Cuando la protección se diseña junto con el sistema, se evita el ciclo eterno de “parche de seguridad”.
+
+---
+
+### Arquitectura en todos los niveles
 
 La arquitectura no es un oficio reservado a quien tiene el cargo en la credencial. Es alfabetización: todo profesional de TI la necesita, en grados distintos. Quien ve el sistema más allá de su propia tarea elige mejor, conversa mejor y se equivoca menos.
 
 La profundidad cambia con la función. Lo que no cambia es el efecto: incluso un recorte superficial ya mejora la decisión; un recorte profundo hace posible la orientación.
 
-## Insights
-
-Tips y reflexiones sobre este pilar — situaciones del día a día que ayudan a anclar el principio.
-
-**Dominio en la base** — Todo equipo debe poder decir qué hace el sistema, su contexto y sus fronteras. El conocimiento del dominio debe estar en la BASE; si el equipo no lo sabe, el sistema se vuelve menos confiable en situaciones de fallo.
-
-**La observabilidad es alfabetización** — Logs, métricas y traces no son “trabajo de SRE después”. Son el mínimo para que cualquier rol vea el sistema. Sin eso, la arquitectura se vuelve opinión.
-
-**Security by design** — La seguridad no llega al final del proyecto: nace con el dominio. Identidad, datos sensibles y quién puede ver o cambiar qué son decisiones de fundación. Cuando la protección se diseña junto con el sistema, se evita el ciclo eterno de “parche de seguridad”.
-
-### Por profundidad de función
-
-**Desarrollador junior** — querer saber cómo llega una petición (cliente → red → API → servicio → datos) ya localiza el propio trabajo en el sistema, sea back o front. Ese mapa mínimo reduce el “código en el vacío”: la persona entiende de dónde viene el dato, hacia dónde va el error y por qué existe un contrato.
-
-**Designer** — un poco de arquitectura amplía ideas y posibilidades. Saber que existen latencia, caché, estados de carga o límites de un contrato de API cambia lo que vale la pena diseñar — y lo que vale la pena defender. Sin ese recorte, el diseño compite con el sistema; con él, el diseño usa el sistema.
-
-**Profesional de arquitectura** — necesita un conocimiento mucho más profundo para decidir y orientar. Trade-offs, límites, evolución y riesgo no caben en un diagrama de alto nivel: exigen criterio. Sin esa profundidad, la orientación se vuelve opinión; con ella, se vuelve responsabilidad.
+| Función | Insight |
+|---------|---------|
+| **Desarrollador junior** | Querer saber cómo llega una petición (cliente → red → API → servicio → datos) ya localiza el propio trabajo en el sistema, sea back o front. Ese mapa mínimo reduce el “código en el vacío”. |
+| **Designer** | Un poco de arquitectura amplía ideas y posibilidades. Saber que existen latencia, caché, estados de carga o límites de API cambia lo que vale la pena diseñar — y lo que vale la pena defender. |
+| **Profesional de arquitectura** | Necesita un conocimiento mucho más profundo para decidir y orientar. Trade-offs, límites, evolución y riesgo exigen criterio: sin profundidad, la orientación se vuelve opinión; con ella, se vuelve responsabilidad. |

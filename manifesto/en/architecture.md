@@ -14,8 +14,20 @@ Designing systems is anticipating how technology behaves under stress and enabli
 
 Tips and reflections on this pillar — day-to-day situations that help anchor the principle.
 
-**Evolve without rebuilding** — Good architecture lets you swap a piece without bringing down the building. If every release demands a “big bang,” the design is still too tightly coupled.
+---
 
-**Cost made measurable by clarity** — Cost is one of the most important things in architecture, but it does not need to be precise from day one. If the design is well defined and components sit in reliable layers, even without fine-grained cost detail it becomes easy to measure and act.
+### Evolve without rebuilding
 
-**AI with both hands** — Artificial Intelligence in architecture must look at data intelligence in one hand and security in the other. At the same time it needs to know the context, it must also protect — knowing everything without protecting is risk; protecting without knowing is blindness.
+Good architecture lets you swap a piece without bringing down the building. If every release demands a “big bang,” the design is still too tightly coupled.
+
+---
+
+### Cost made measurable by clarity
+
+Cost is one of the most important things in architecture, but it does not need to be precise from day one. If the design is well defined and components sit in reliable layers, even without fine-grained cost detail it becomes easy to measure and act.
+
+---
+
+### AI with both hands
+
+Artificial Intelligence in architecture must look at data intelligence in one hand and security in the other. At the same time it needs to know the context, it must also protect — knowing everything without protecting is risk; protecting without knowing is blindness.

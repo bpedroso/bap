@@ -14,8 +14,20 @@ Diseñar sistemas es prever el comportamiento de la tecnología bajo estrés y p
 
 Tips y reflexiones sobre este pilar — situaciones del día a día que ayudan a anclar el principio.
 
-**Evolucionar sin reconstruir** — Una buena arquitectura permite cambiar una pieza sin derribar el edificio. Si cada release exige un “big bang”, el diseño aún acopla demasiado.
+---
 
-**Costo medible por claridad** — El costo es una de las cosas más importantes en arquitectura, pero no necesita ser preciso desde el primer día. Si el diseño está bien definido y los componentes están en capas confiables, incluso sin detalle fino de costos es fácil medir y actuar.
+### Evolucionar sin reconstruir
 
-**IA con ambas manos** — La Inteligencia Artificial en la arquitectura debe mirar la inteligencia de datos en una mano y la seguridad en la otra. Al mismo tiempo que necesita conocer el contexto, también debe proteger — conocerlo todo sin proteger es riesgo; proteger sin conocer es ceguera.
+Una buena arquitectura permite cambiar una pieza sin derribar el edificio. Si cada release exige un “big bang”, el diseño aún acopla demasiado.
+
+---
+
+### Costo medible por claridad
+
+El costo es una de las cosas más importantes en arquitectura, pero no necesita ser preciso desde el primer día. Si el diseño está bien definido y los componentes están en capas confiables, incluso sin detalle fino de costos es fácil medir y actuar.
+
+---
+
+### IA con ambas manos
+
+La Inteligencia Artificial en la arquitectura debe mirar la inteligencia de datos en una mano y la seguridad en la otra. Al mismo tiempo que necesita conocer el contexto, también debe proteger — conocerlo todo sin proteger es riesgo; proteger sin conocer es ceguera.

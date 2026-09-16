@@ -14,8 +14,20 @@ A arquitetura só cumpre seu papel quando se materializa em produtos funcionais,
 
 Dicas e reflexões sobre este pilar — situações do dia a dia que ajudam a ancorar o princípio.
 
-**Complexidade some na interface** — O usuário não deve carregar a topologia. Latência, estado e falha precisam de UX honesta; esconder falha sem feedback é irresponsabilidade de produto.
+---
 
-**Engajamento com freio** — Em jogos e produtos imersivos, métrica de retenção sem limite ético vira design predatório. Responsabilidade é arquitetura de produto, não disclaimer.
+### Complexidade some na interface
 
-**Degradação graciosa** — Quando a base oscila, a plataforma ainda deve entregar um caminho útil (modo reduzido, fila, mensagem clara). Produto que só funciona no happy path não é plataforma — é demo.
+O usuário não deve carregar a topologia. Latência, estado e falha precisam de UX honesta; esconder falha sem feedback é irresponsabilidade de produto.
+
+---
+
+### Engajamento com freio
+
+Em jogos e produtos imersivos, métrica de retenção sem limite ético vira design predatório. Responsabilidade é arquitetura de produto, não disclaimer.
+
+---
+
+### Degradação graciosa
+
+Quando a base oscila, a plataforma ainda deve entregar um caminho útil (modo reduzido, fila, mensagem clara). Produto que só funciona no happy path não é plataforma — é demo.
